@@ -1,0 +1,86 @@
+.icon-pic {
+	padding-left: 100px;
+	padding-top: 20px;
+	background: url("../images/gallery3.png") 0 0 no-repeat;
+	background-size: 36px 36px;
+	position: relative;
+	top: 10px;
+	left: -40px;
+}
+
+.icon-page {
+	padding-left: 100px;
+	padding-top: 20px;
+	background: url("../images/browser2.png") 0 0 no-repeat;
+	background-size: 36px 36px;
+	position: relative;
+	top: 10px;
+	left: -40px;
+}
+
+.icon-news {
+	padding-left: 100px;
+	padding-top: 20px;
+	background: url("../images/notes1.png") 0 0 no-repeat;
+	background-size: 36px 36px;
+	position: relative;
+	top: 10px;
+	left: -40px;
+}
+
+.icon-tieba {
+	padding-left: 100px;
+	padding-top: 20px;
+	background: url("../images/baidu1.png") 0 0 no-repeat;
+	background-size: 36px 36px;
+	position: relative;
+	top: 10px;
+	left: -42px;
+}
+
+.result_tool_function_a {
+	padding-left: 50px;
+	padding-top: 35px;
+	background: url("../images/a.png") 0 0 no-repeat;
+	background-size: 50px 50px;
+	position: relative;
+	top: -42px;
+	left: 20px;
+	cursor: pointer;
+}
+
+.result_tool_function_b {
+	padding-left: 50px;
+	padding-top: 35px;
+	background: url("../images/b.png") 0 0 no-repeat;
+	background-size: 50px 50px;
+	position: relative;
+	top: -42px;
+	left: 20px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.result_tool_function_c {
+	padding-left: 50px;
+	padding-top: 35px;
+	background: url("../images/c.png") 0 0 no-repeat;
+	background-size: 50px 50px;
+	position: relative;
+	top: -42px;
+	left: 20px;
+	cursor: pointer;
+	margin-left: 10px;
+}
+
+.result_tool_function_d {
+	padding-left: 50px;
+	padding-top: 35px;
+	background: url("../images/d.png") 0 0 no-repeat;
+	background-size: 50px 50px;
+	position: relative;
+	top: -42px;
+	left: 20px;
+	margin-left: 10px;
+	cursor: pointer;
+}

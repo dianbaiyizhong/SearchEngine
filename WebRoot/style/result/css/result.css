@@ -1,0 +1,126 @@
+ul,li {
+	list-style-type: none;
+	text-transform: capitalize;
+}
+
+body {
+	background: #F4F4F4 url("../images/grid_DominikKiss_SubtlePatterns.jpg")
+		repeat scroll 0% 0%;
+}
+
+.Result {
+	position: relative;
+	width: 900px;
+	height: 800px;
+	left: 500px;
+	display: none;
+}
+
+.search_nav {
+	position: relative;
+	left: 250px;
+	top: 220px;
+	width: 200px;
+}
+
+.search_nav ul li {
+	width: 200px;
+	height: 50px;
+	margin-top: 5px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+	border-radius: 2px;
+	line-height: 50px;
+}
+
+.search_nav ul li span {
+	position: relative;
+	left: 10px;
+}
+
+.search_nav ul li p {
+	position: relative;
+	margin-left: 50px;
+}
+
+.result_list {
+	position: relative;
+	background: url("../images/asuna1.png");
+	background-repeat: no-repeat;
+	left: 0px;
+	width: 1200px;
+	height: 610px;
+	top: -200px;
+	overflow: hidden;
+}
+
+.arrow {
+	background: url("../images/menu_sao_third_indicator_bg.png");
+	background-size: 70px 500px;
+	background-repeat: no-repeat;
+	width: 70px;
+	height: 500px;
+	left: -30px;
+	position: absolute;
+	top: -120px;
+}
+
+.result_list  li {
+	display: none;
+	background: rgba(255, 255, 255, 0.6) !important;
+	background-color: white;
+	width: 800px;
+	height: 200px;
+	margin-top: 5px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+	border-radius: 2px;
+	cursor: pointer;
+}
+
+.result_tool {
+	background: rgba(255, 255, 255, 0.6) !important;
+	background-color: white;
+	width: 280px;
+	height: 100px;
+	position: relative;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+	border-radius: 2px;
+	top: -100px;
+	left: 820px;
+	display: none;
+}
+
+.result_tool:HOVER {
+	background: #f8b161;
+	background: rgba(248, 177, 97, 0.9) !important;
+	color: #fff;
+}
+
+.result_tool .arrow_small {
+	background: url("../images/indicator1.png");
+	background-size: 50px 100px;
+	width: 50px;
+	height: 100px;
+	position: relative;
+	left: -45px;
+}
+
+.result_list ul  li  a {
+	position: relative;
+	padding-left: 40px;
+	top: 20px;
+	font-size: 18px;
+}
+
+.result_list  ul li  p {
+	position: relative;
+	top: 10px;
+	padding-left: 20px;
+	font-size: 15px;
+	padding-right: 20px;
+}
+
+.result_list  li:HOVER {
+	background: #f8b161;
+	background: rgba(248, 177, 97, 0.9) !important;
+	color: #fff;
+}

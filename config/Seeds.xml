@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Seeds>
+<!--	<seed id="1" name="天涯论坛">-->
+<!--		<field name="url">http://bbs.tianya.cn/post-funinfo-6590330-1.shtml</field>-->
+<!--		<field name="title" lablename="title" />-->
+<!--		<field name="text" lablename="div" labelclass="bbs-content clearfix"-->
+<!--			labelid="" />-->
+<!--		<field name="time" lablename="div" labelclass="atl-menu clearfix js-bbs-act"-->
+<!--			labelid="" />-->
+<!--		<field name="author" lablename="div" labelclass="atl-menu clearfix js-bbs-act"-->
+<!--			labelid="" />-->
+<!--		<field name="point_depth">20</field>-->
+<!--		<field name="filterSuffix">-->
+<!--			javascript:;,gif,GIF,jpg,JPG,png,PNG,ico,ICO,css,sit,eps,wmf,zip,ppt,mpg,xls,gz,rpm,tgz,mov,MOV,exe,jpeg,JPEG,bmp,BMP,apk-->
+<!--		</field>-->
+<!--		<field name="directDomain">http://bbs.tianya.cn</field>-->
+<!--	</seed>-->
+<!--	<seed id="1" name="腾讯新闻">-->
+<!--		<field name="url">http://news.qq.com/a/20150830/016800.htm</field>-->
+<!--		<field name="title" lablename="title" />-->
+<!--		<field name="text" lablename="div" labelclass="main"-->
+<!--			labelid="" />-->
+<!--		<field name="time" lablename="span" labelclass="article-time"-->
+<!--			labelid="" />-->
+	<!-- 	<field name="author" lablename="div" labelclass="tit-bar clearfix"
+			labelid="" /> -->
+<!--		<field name="point_depth">20</field>-->
+<!--		<field name="filterSuffix">-->
+<!--			javascript:;,gif,GIF,jpg,JPG,png,PNG,ico,ICO,css,sit,eps,wmf,zip,ppt,mpg,xls,gz,rpm,tgz,mov,MOV,exe,jpeg,JPEG,bmp,BMP,apk-->
+<!--		</field>-->
+<!--		<field name="directDomain">http://news.qq.com</field>-->
+<!--	</seed>-->
+
+
+
+
+
+<!--	<seed id="1" name="网易新闻">-->
+<!--		<field name="url">http://news.163.com/15/0830/11/B28UQKGE00014AEE.html</field>-->
+<!--		<field name="title" lablename="title" />-->
+<!--		<field name="text" lablename="div" labelclass="end-text"-->
+<!--			labelid="" />-->
+<!--		<field name="time" lablename="div" labelclass="ep-time-soure cDGray"-->
+<!--			labelid="" />-->
+<!--		<field name="author" lablename="div" labelclass="ep-time-soure cDGray"-->
+<!--			labelid="" />-->
+<!--		<field name="point_depth">20</field>-->
+<!--		<field name="filterSuffix">-->
+<!--			javascript:;,gif,GIF,jpg,JPG,png,PNG,ico,ICO,css,sit,eps,wmf,zip,ppt,mpg,xls,gz,rpm,tgz,mov,MOV,exe,jpeg,JPEG,bmp,BMP,apk-->
+<!--		</field>-->
+<!--		<field name="directDomain">http://news.163.com</field>-->
+<!--	</seed>-->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		<seed id="1" name="豆瓣社区">
+		<field name="url">http://www.douban.com/note/477338162/</field>
+		<field name="title" lablename="title" />
+		<field name="text" lablename="div" labelclass="article"
+			labelid="" />
+		<field name="time" lablename="span" labelclass="pl"
+			labelid="" />
+		<field name="author" lablename="a" labelclass="note-author"
+			labelid="" />
+		<field name="point_depth">20</field>
+		<field name="filterSuffix">
+			javascript:;,gif,GIF,jpg,JPG,png,PNG,ico,ICO,css,sit,eps,wmf,zip,ppt,mpg,xls,gz,rpm,tgz,mov,MOV,exe,jpeg,JPEG,bmp,BMP,apk
+		</field>
+		<field name="directDomain">http://www.douban.com</field>
+	</seed>
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--	<seed id="2" name="新浪门户">-->
+	<!--		<field name="url">http://sports.sina.com.cn/</field>-->
+	<!--		<field name="title" lablename="title" />-->
+	<!--		<field name="text" />-->
+	<!--		<field name="point_depth">20</field>-->
+	<!--		<field name="filterSuffix">-->
+	<!--
+		javascript:;,gif,GIF,jpg,JPG,png,PNG,ico,ICO,css,sit,eps,wmf,zip,ppt,mpg,xls,gz,rpm,tgz,mov,MOV,exe,jpeg,JPEG,bmp,BMP,apk
+	-->
+	<!--		</field>-->
+	<!--		<field name="directDomain">http://sports.sina.com.cn</field>-->
+	<!--	</seed>-->
+
+
+</Seeds>

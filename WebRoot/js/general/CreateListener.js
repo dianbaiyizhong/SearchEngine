@@ -1,0 +1,3 @@
+function addListener(obj, listerEvent) {
+
+}

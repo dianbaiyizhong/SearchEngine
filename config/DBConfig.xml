@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<DataBaseName>crawler309</DataBaseName>
+	<ServerIP>192.168.1.100:3306</ServerIP>
+	<ServerUserName>root</ServerUserName>
+	<ServerPassword>1234</ServerPassword>
+</configuration>

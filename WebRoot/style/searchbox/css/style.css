@@ -1,0 +1,65 @@
+.text_search_div {
+	width: 700px;
+	height: 237px;
+	background-image: url("../images/message.png");
+	background-repeat: no-repeat;
+	background-size: 700px 237px;
+	position: fixed;
+	/* 	left: 50%; */
+	margin-left: -700px;
+	z-index: 2;
+
+	/* 	display: none; */
+}
+
+.text_search_div input {
+	BACKGROUND-COLOR: transparent;
+	border: none;
+	width: 600px;
+	height: 50px;
+	position: relative;
+	left: 50%;
+	margin-left: -300px;
+	top: 50%;
+	margin-top: -25px;
+	color: black;
+	font-size: 28px;
+		z-index: 2;
+	
+}
+
+.btn_Search {
+	top: 100px;
+	
+		position: fixed;
+	
+	left:100%;
+	background-image: url("../images/search.png");
+	width: 64px;
+	height: 64px;
+	
+	z-index: 2;
+}
+
+.btn_Search:HOVER {
+	position: fixed;
+	background-image: url("../images/search_press.png");
+	width: 64px;
+	height: 64px;
+		z-index: 2;
+	
+}
+
+.showTextBox {
+	position: fixed;
+	background-image: url("../images/search.png");
+	width: 64px;
+	height: 64px;
+}
+
+.showTextBox:HOVER {
+	position: fixed;
+	background-image: url("../images/search_press.png");
+	width: 64px;
+	height: 64px;
+}
